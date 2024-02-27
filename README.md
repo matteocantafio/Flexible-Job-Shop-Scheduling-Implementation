@@ -1,2 +1,3 @@
 # Flexible-Job-Shop-Scheduling-Implementation
-Implementation of a MILP model for the Flexible Job Shop Scheduling problme 
+This university group project, completed with Matteo Mastroianni and Francesco Paparazzo, was developed for the Production Management and Control course. The project focused on studying the Flexible Job Shop Scheduling Problem and implementing the mathematical model developed by Ozguven et al. We applied this model to a small benchmark instance that has been used by many authors (https://www.ime.usp.br/~cris/fjs/). 
+Additionally, we proposed an extension of the model by introducing efficiency parameters for each machine in the shop based on user input.
